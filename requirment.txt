@@ -1,0 +1,5 @@
+streamlit
+gemini.genai
+PLI
+PyPDF2
+python-dotenv
